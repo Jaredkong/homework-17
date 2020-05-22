@@ -16,10 +16,4 @@ The workouts can be tracked and viewed on a separate page.
 
 ![Alt text](./assets/screenshot2.PNG?raw=true "screenshot")
 
-## Submission on BCS
 
-You are required to submit the following:
-
-- The URL to the deployed application (instructions are [here](../../17-nosql/supplemental/MongoDBHerokuDeploy.md))
-
-- The URL to the Github repository
